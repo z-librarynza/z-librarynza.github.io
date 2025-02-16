@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>zlibrary官网登录入口，最大的电子书图书馆</title>
+  
+  <subtitle>关于软件、chrome插件、编程、知识、Z-library、安娜的档案、科技前沿的日志</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-02-16</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>zlibrary官网登录入口，最大的电子书图书馆</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>zlibrary官网登录入口，最大的电子书图书馆</title>
+    <link href="http://example.com/p/z-library.html"/>
+    <id>http://example.com/p/z-library.html</id>
+    <published>2025-02-16</published>
+    <updated>2025-02-16</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Z-Library 是一个曾引起广泛关注和争议的在线资源平台，起源于2009年，最初作为Library Genesis的镜像网站，后独立发展为涵盖超过1300万本书籍和8400万篇学术文章的庞大资源库。其目标是通过免费共享促进知识传播，尤其受到学生、研究人员和阅读爱好者的青睐。2023年因美国管制政策一度关闭，但通过更换域名、推出客户端和镜像站重新上线，持续优化用户体验。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="zlibrary官网登录入口，最大的电子书图书馆" scheme="http://example.com/categories/z-library%E6%95%B0%E5%AD%97%E5%9B%BE%E4%B9%A6%E9%A6%86/"/>
+    
+    
+    <category term="z-library" scheme="http://example.com/tags/z-library/"/>
+    
+  </entry>
+  
+</feed>
